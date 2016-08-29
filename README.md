@@ -2,6 +2,15 @@ Supports du module M3301 : Méthodologie de la production d'applications (partie
 ============================================================================
 
 
+
+
+Références sur le développement agile
+-------
+Dans le dépôt : [https://github.com/iblasquez/ReferencesAgiles](https://github.com/iblasquez/ReferencesAgiles), vous trouverez de nombreuses références sur le développement logiciel agile.
+
+Le lien [http://unil.im/33012015](http://unil.im/33012015) vous enverra directement sur la perle [M3301_DeveloppementAgile](http://unil.im/33012015).
+
+
 Licence
 -------
 
