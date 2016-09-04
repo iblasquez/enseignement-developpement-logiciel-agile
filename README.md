@@ -3,7 +3,7 @@ Supports du module M3301 : Méthodologie de la production d'applications (partie
 
 Bienvenue dans le monde du développement logiciel agile !
 
-[Introduction & Teasing](1_IntroM3301.pdf)  
+[Introduction & Teasing](1_IntroM3301.pdf) et son fameux [Bingo!](1_Bingo.pdf)   
 [Marshmallow Challenge](1_MarshmallowChallenge)  
 [Outils numériques de travail collaboratif](2_PresentationOutilsTravailCollaboratif)
 
