@@ -1,13 +1,16 @@
 # Supports du module M3301 : Méthodologie de la production d'applications (partie sur le développement logiciel agile)
 ---
 
-Bienvenue dans le monde du développement logiciel agile !
+**Bienvenue dans le monde du développement logiciel agile !**
 
 ## Supports de cours
 
 [Introduction & Teasing](1_IntroM3301.pdf) et son fameux [Bingo!](1_Bingo.pdf)   
 [Marshmallow Challenge](1_MarshmallowChallenge.pdf)  
-[Outils numériques de travail collaboratif](2_PresentationOutilsTravailCollaboratif.pdf)
+[Outils numériques de travail collaboratif](2_PresentationOutilsTravailCollaboratif.pdf)  
+
+
+Pour toute question, discussion autour du module, veuillez utiliser [iutinfolimoges.slack.com](https://iutinfolimoges.slack.com/) avec votre adresse en unilim.
 
 
 ## Références sur le développement logiciel agile
