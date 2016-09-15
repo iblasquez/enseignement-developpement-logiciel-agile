@@ -8,7 +8,7 @@
 [Introduction & Teasing](1_IntroM3301.pdf) et son fameux [Bingo!](1_Bingo.pdf)   
 [Marshmallow Challenge](1_MarshmallowChallenge.pdf)  
 [Outils numériques de travail collaboratif](2_PresentationOutilsTravailCollaboratif.pdf)  
-
+[Découverte de Scrum par le jeu](3_Lego4Scrum.pdf) 
 
 Pour toute question, discussion autour du module, veuillez utiliser [iutinfolimoges.slack.com](https://iutinfolimoges.slack.com/) avec votre adresse en unilim.
 
@@ -24,7 +24,7 @@ Le lien [http://unil.im/33012015](http://unil.im/33012015) vous enverra directem
 ## Divers
 
 
-- L'idée du Bingo vient de la conférence [Extremist Programming : l'art de s'amuser avec du code](https://www.youtube.com/watch?v=9UsjBV9zU1Y) présentée [Cyrille Martraire](https://twitter.com/cyriux) et [Eric Lefevre-Ardant](https://twitter.com/elefevre) à [Devoxx France](http://www.devoxx.fr/) en 2014 : une conférence décalée avec du fond : à voir absolument !
+- L'idée du Bingo vient de la conférence [Extremist Programming : l'art de s'amuser avec du code](https://www.youtube.com/watch?v=9UsjBV9zU1Y) présentée par [Cyrille Martraire](https://twitter.com/cyriux) et [Eric Lefevre-Ardant](https://twitter.com/elefevre) à [Devoxx France](http://www.devoxx.fr/) en 2014 : une conférence décalée avec du fond : à voir absolument !
 
 - <img src="http://www.unilim.fr/wp-content/uploads/sites/8/2015/10/COde-long-rvb.png" width="100"> 
 [Le site de CoDeMAKER](https://fondation.unilim.fr/codemaker/)  
