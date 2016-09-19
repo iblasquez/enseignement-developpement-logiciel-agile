@@ -5,11 +5,14 @@
 
 ## Supports de cours
 
-[Introduction & Teasing](1_IntroM3301.pdf) et son fameux [Bingo!](1_Bingo.pdf)   
-[Marshmallow Challenge](1_MarshmallowChallenge.pdf)  
-[Outils numériques de travail collaboratif](2_PresentationOutilsTravailCollaboratif.pdf)  
-[Découverte de Scrum par le jeu](3_Lego4Scrum.pdf)   
-[Panorama du Développement Classique au Développement Agile](4_DevClassique_DevAgile.pdf)
+- [Introduction & Teasing](1_IntroM3301.pdf) et son fameux [Bingo!](1_Bingo.pdf)   
+- [Marshmallow Challenge](1_MarshmallowChallenge.pdf)  
+- [Outils numériques de travail collaboratif](2_PresentationOutilsTravailCollaboratif.pdf)  
+- [Découverte de Scrum par le jeu](3_Lego4Scrum.pdf)   
+- [Panorama du Développement Classique au Développement Agile](4_DevClassique_DevAgile.pdf)  
+- Le *bon* produit (*the right product*) : De la vision aux features : les outils du Product Owner 
+	- [Une bonne vision pour bien commencer (Elevator Pitch, Product Box, Carte d'Empathie & Personnas)](5_VisionProduit.pdf)
+	<!-- - [Impact Mapping](6_ImpactMapping) -->
 
 
 Pour toute question, discussion autour du module, veuillez utiliser [iutinfolimoges.slack.com](https://iutinfolimoges.slack.com/) avec votre adresse en unilim.
