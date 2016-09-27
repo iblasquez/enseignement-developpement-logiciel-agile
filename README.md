@@ -13,7 +13,8 @@
 - Le *bon* produit (*the right product*) : De la vision aux features : les outils du Product Owner 
 	- [Une bonne vision pour bien commencer (Elevator Pitch, Product Box, Carte d'Empathie & Personnas)](5_VisionProduit.pdf)  
 	- [Impact Mapping](6_ImpactMapping.pdf)
-- User Story :L’histoire utilisateur au cœur du développement logiciel agile
+	- [Story Mapping](8_StoryMapping.pdf)
+- User Story : L’histoire utilisateur au cœur du développement logiciel agile
 	- [User Sory Partie 1 : Introduction, Définition, Découpage](UserStory_Partie1.pdf) 
 
 
