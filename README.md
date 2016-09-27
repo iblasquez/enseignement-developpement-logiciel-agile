@@ -15,7 +15,7 @@
 	- [Impact Mapping](6_ImpactMapping.pdf)
 	- [Story Mapping](8_StoryMapping.pdf)
 - User Story : L’histoire utilisateur au cœur du développement logiciel agile
-	- [User Story - Partie 1 : INVESTir dans une histoire](UserStory_Partie1.pdf) 
+	- [1. INVESTir dans une histoire](UserStory_Partie1__INVESTir.pdf) 
 
 
 
