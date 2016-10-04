@@ -17,7 +17,8 @@
 - User Story : L’histoire utilisateur au cœur du développement logiciel agile
 	- [1. INVESTir dans une histoire](UserStory_Partie1_INVESTir.pdf) 
 	- [2. Raconter une belle histoire](UserStory_Partie2_Raconter.pdf)
-	- [3. Mettre en scène une histoire](UserStory_Partie3_MettreEnScene.pdf)  
+	- [3. Mettre en scène une histoire](UserStory_Partie3_MettreEnScene.pdf)
+	- [Example Mapping](11_ExampleMapping.pdf)
 - Un produit de qualité correctement construit (*the product right*)  
 	- [Tests et excellence technique au cœur du développement agile](9_QualiteLogicielleExcellenceTechnique.pdf)
 
