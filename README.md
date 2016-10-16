@@ -10,19 +10,25 @@
 - [Outils numériques de travail collaboratif](2_PresentationOutilsTravailCollaboratif.pdf)  
 - [Découverte de Scrum par le jeu](3_Lego4Scrum.pdf)   
 - [Panorama du Développement Classique au Développement Agile](4_DevClassique_DevAgile.pdf)  
-- Le *bon* produit (*the right product*) : De la vision aux features : les outils du Product Owner 
-	- [Une bonne vision pour bien commencer (Elevator Pitch, Product Box, Carte d'Empathie & Personnas)](5_VisionProduit.pdf)  
-	- [Impact Mapping](6_ImpactMapping.pdf)
-	- [Story Mapping](8_StoryMapping.pdf)
-- User Story : L’histoire utilisateur au cœur du développement logiciel agile
-	- [1. INVESTir dans une histoire](UserStory_Partie1_INVESTir.pdf) 
-	- [2. Raconter une belle histoire](UserStory_Partie2_Raconter.pdf)
-	- [3. Mettre en scène une histoire](UserStory_Partie3_MettreEnScene.pdf)
-	- [Example Mapping](11_ExampleMapping.pdf)
-	- [PO Dojo : Atelier USTA](10_AtelierUSTA.pdf)
-- Un produit de qualité correctement construit (*the product right*)  
-	- [Tests et excellence technique au cœur du développement agile](9_QualiteLogicielleExcellenceTechnique.pdf)
-- Vidéo : [La gestion du produit agile en deux mots](https://www.youtube.com/watch?v=3qMpB-UH9kA) (version française de [Agile Product Ownership in a Nutshell by Henrik Kniberg](https://www.youtube.com/watch?v=502ILHjX9EE))
+
+#### Le *bon* produit (*the right product*) : De la vision aux features : les outils du Product Owner  
+- [Une bonne vision pour bien commencer (Elevator Pitch, Product Box, Carte d'Empathie & Personnas)](5_VisionProduit.pdf)  
+- [Impact Mapping](6_ImpactMapping.pdf)
+- [Story Mapping](8_StoryMapping.pdf)
+  	  
+#### User Story : L'histoire utilisateur au cœur du développement logiciel agile
+- [1. INVESTir dans une histoire](UserStory_Partie1_INVESTir.pdf) 
+- [2. Raconter une belle histoire](UserStory_Partie2_Raconter.pdf)
+- [3. Mettre en scène une histoire](UserStory_Partie3_MettreEnScene.pdf)
+- [Example Mapping](11_ExampleMapping.pdf)
+- [PO Dojo : Atelier USTA](10_AtelierUSTA.pdf)
+- [Mettre en scène des histoires dans Scrum : Simulation d'un sprint](12_SimulationSprint.pdf)
+
+#### Un produit de qualité correctement construit (*the product right*)  
+- [Tests et excellence technique au cœur du développement agile](9_QualiteLogicielleExcellenceTechnique.pdf)
+
+#### Vidéo : 
+- [La gestion du produit agile en deux mots](https://www.youtube.com/watch?v=3qMpB-UH9kA) (version française de [Agile Product Ownership in a Nutshell by Henrik Kniberg](https://www.youtube.com/watch?v=502ILHjX9EE))
 
 
 Pour toute question, discussion autour du module, veuillez utiliser [iutinfolimoges.slack.com](https://iutinfolimoges.slack.com/) avec votre adresse en unilim.
