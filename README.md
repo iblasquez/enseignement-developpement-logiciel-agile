@@ -26,6 +26,8 @@
 
 #### Un produit de qualité correctement construit (*the product right*)  
 - [Tests et excellence technique au cœur du développement agile](9_QualiteLogicielleExcellenceTechnique.pdf)
+- [Sensibilisation aux bonnes pratiques techniques du Software Craftsmanship : Lego® à la rescousse !](13_AteliersLEGO_PratiquesTechniques.pdf)
+
 
 #### Vidéo : 
 - [La gestion du produit agile en deux mots](https://www.youtube.com/watch?v=3qMpB-UH9kA) (version française de [Agile Product Ownership in a Nutshell by Henrik Kniberg](https://www.youtube.com/watch?v=502ILHjX9EE))
