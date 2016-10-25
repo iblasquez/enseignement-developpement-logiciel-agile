@@ -5,29 +5,29 @@
 
 ## Supports de cours
 
-- [Introduction & Teasing](1_IntroM3301.pdf) et son fameux [Bingo!](1_Bingo.pdf)   
-- [Marshmallow Challenge](1_MarshmallowChallenge.pdf)  
-- [Outils numériques de travail collaboratif](2_PresentationOutilsTravailCollaboratif.pdf)  
-- [Découverte de Scrum par le jeu](3_Lego4Scrum.pdf)   
-- [Panorama du Développement Classique au Développement Agile](4_DevClassique_DevAgile.pdf)
-- [Retrospective](14_Retrospective.pdf) 
+- [Introduction & Teasing](slides/1_IntroM3301.pdf) et son fameux [Bingo!](slides/1_Bingo.pdf)   
+- [Marshmallow Challenge](slides/1_MarshmallowChallenge.pdf)  
+- [Outils numériques de travail collaboratif](slides/2_PresentationOutilsTravailCollaboratif.pdf)  
+- [Découverte de Scrum par le jeu](slides/3_Lego4Scrum.pdf)   
+- [Panorama du Développement Classique au Développement Agile](slides/4_DevClassique_DevAgile.pdf)
+- [Retrospective](slides/14_Retrospective.pdf) 
 
 #### Le *bon* produit (*the right product*) : De la vision aux features : les outils du Product Owner  
-- [Une bonne vision pour bien commencer (Elevator Pitch, Product Box, Carte d'Empathie & Personnas)](5_VisionProduit.pdf)  
-- [Impact Mapping](6_ImpactMapping.pdf)
-- [Story Mapping](8_StoryMapping.pdf)
+- [Une bonne vision pour bien commencer (Elevator Pitch, Product Box, Carte d'Empathie & Personnas)](slides/5_VisionProduit.pdf)  
+- [Impact Mapping](slides/6_ImpactMapping.pdf)
+- [Story Mapping](slides/8_StoryMapping.pdf)
   	  
 #### User Story : L'histoire utilisateur au cœur du développement logiciel agile
-- [1. INVESTir dans une histoire](UserStory_Partie1_INVESTir.pdf) 
-- [2. Raconter une belle histoire](UserStory_Partie2_Raconter.pdf)
-- [3. Mettre en scène une histoire](UserStory_Partie3_MettreEnScene.pdf)
-- [Example Mapping](11_ExampleMapping.pdf)
-- [PO Dojo : Atelier USTA](10_AtelierUSTA.pdf)
-- [Mettre en scène des histoires dans Scrum : Simulation d'un sprint](12_SimulationSprint.pdf)
+- [1. INVESTir dans une histoire](slides/UserStory_Partie1_INVESTir.pdf) 
+- [2. Raconter une belle histoire](slides/UserStory_Partie2_Raconter.pdf)
+- [3. Mettre en scène une histoire](slides/UserStory_Partie3_MettreEnScene.pdf)
+- [Example Mapping](slides/11_ExampleMapping.pdf)
+- [PO Dojo : Atelier USTA](slides/10_AtelierUSTA.pdf)
+- [Mettre en scène des histoires dans Scrum : Simulation d'un sprint](slides/12_SimulationSprint.pdf)
 
 #### Un produit de qualité correctement construit (*the product right*)  
-- [Tests et excellence technique au cœur du développement agile](9_QualiteLogicielleExcellenceTechnique.pdf)
-- [Sensibilisation aux bonnes pratiques techniques du Software Craftsmanship : Lego® à la rescousse !](13_AteliersLEGO_PratiquesTechniques.pdf)
+- [Tests et excellence technique au cœur du développement agile](slides/9_QualiteLogicielleExcellenceTechnique.pdf)
+- [Sensibilisation aux bonnes pratiques techniques du Software Craftsmanship : Lego® à la rescousse !](slides/13_AteliersLEGO_PratiquesTechniques.pdf)
 
 
 #### Vidéo : 
