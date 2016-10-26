@@ -30,6 +30,7 @@
 - [Sensibilisation aux bonnes pratiques techniques du Software Craftsmanship : Lego® à la rescousse !](slides/13_AteliersLEGO_PratiquesTechniques.pdf)
 -  [Coding Dojo : une aide à la pratique du TDD](http://iblasquez.github.io/presentation_TDD_CodingDojo) (rappel)
 -  [Tutoriel s'appuyant sur l'exemple simplifié du premier chapitre du livre Refactoring de Martin Fowler](https://github.com/iblasquez/Refactoring_PremierExempleFowler) (rappel)
+-  Tutoriel de prise en main de Cucumber (à venir)
 
 
 #### Vidéo : 
