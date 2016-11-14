@@ -1,4 +1,4 @@
-# Supports du module M3301 : Méthodologie de la production d'applications (partie sur le développement logiciel agile)
+# Méthodologie de la production d'applications (partie sur le développement logiciel agile)
 ---
 
 **Bienvenue dans le monde du développement logiciel agile !**
@@ -24,13 +24,14 @@
 - [Example Mapping](slides/11_ExampleMapping.pdf)
 - [PO Dojo : Atelier USTA](slides/10_AtelierUSTA.pdf)
 - [Mettre en scène des histoires dans Scrum : Simulation d'un sprint](slides/12_SimulationSprint.pdf)
+- [Tutoriel de prise en main de Cucumber](https://github.com/iblasquez/tuto_bdd_cucumber)
 
 #### Un produit de qualité correctement construit (*the product right*)  
 - [Tests et excellence technique au cœur du développement agile](slides/9_QualiteLogicielleExcellenceTechnique.pdf)
 - [Sensibilisation aux bonnes pratiques techniques du Software Craftsmanship : Lego® à la rescousse !](slides/13_AteliersLEGO_PratiquesTechniques.pdf)
--  [Coding Dojo : une aide à la pratique du TDD](http://iblasquez.github.io/presentation_TDD_CodingDojo) (rappel)
--  [Tutoriel s'appuyant sur l'exemple simplifié du premier chapitre du livre Refactoring de Martin Fowler](https://github.com/iblasquez/Refactoring_PremierExempleFowler) (rappel)
--  Tutoriel de prise en main de Cucumber (à venir)
+-  [Coding Dojo : une aide à la pratique du TDD](http://iblasquez.github.io/presentation_TDD_CodingDojo) 
+-  [Tutoriel s'appuyant sur l'exemple simplifié du premier chapitre du livre Refactoring de Martin Fowler](https://github.com/iblasquez/Refactoring_PremierExempleFowler) 
+
 
 
 #### Vidéo : 
