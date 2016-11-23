@@ -24,7 +24,7 @@
 - [Example Mapping](slides/11_ExampleMapping.pdf)
 - [PO Dojo : Atelier USTA](slides/10_AtelierUSTA.pdf)
 - [Mettre en scène des histoires dans Scrum : Simulation d'un sprint](slides/12_SimulationSprint.pdf)
-- [Tutoriel de prise en main de Cucumber](https://github.com/iblasquez/tuto_bdd_cucumber)
+- [Tutoriel de prise en main de Cucumber](https://github.com/iblasquez/tuto_bdd_cucumber) pour passer d'une [spécification par l'exemple à une documentation vivante](slides/15_SpecificationExecutableDocumentationVivante.pdf)
 
 #### Un produit de qualité correctement construit (*the product right*)  
 - [Tests et excellence technique au cœur du développement agile](slides/9_QualiteLogicielleExcellenceTechnique.pdf)
