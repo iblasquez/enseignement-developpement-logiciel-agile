@@ -38,6 +38,11 @@
 - [La gestion du produit agile en deux mots](https://www.youtube.com/watch?v=3qMpB-UH9kA) (version française de [Agile Product Ownership in a Nutshell by Henrik Kniberg](https://www.youtube.com/watch?v=502ILHjX9EE))
 
 
+#### Autres :
+- [A la découverte de l'ATDD - une pratique d'équipe pour le développement](slides/10_DecouverteATDD_EnBD.pdf)
+- [Liste de projets utilisant Cucumber](https://github.com/cucumber/cucumber/wiki/Projects-Using-Cucumber)
+
+
 Pour toute question, discussion autour du module, veuillez utiliser [iutinfolimoges.slack.com](https://iutinfolimoges.slack.com/) avec votre adresse en unilim.
 
 
