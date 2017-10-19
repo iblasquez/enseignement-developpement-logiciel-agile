@@ -24,15 +24,19 @@
 - [Example Mapping](slides/11_ExampleMapping.pdf)
 - [PO Dojo : Atelier USTA](slides/10_AtelierUSTA.pdf)
 - [Mettre en scène des histoires dans Scrum : Simulation d'un sprint](slides/12_SimulationSprint.pdf)
+- [Le Gherkin, la classe !](https://github.com/iblasquez/tuto_bdd_gherkin) : présentation détaillée du langage Gherkin 
 - [Tutoriel de prise en main de Cucumber](https://github.com/iblasquez/tuto_bdd_cucumber) pour passer d'une [spécification par l'exemple à une documentation vivante](slides/15_SpecificationExecutableDocumentationVivante.pdf)
+- [Tutoriel de prise en main de JBehave](https://github.com/iblasquez/tuto_bdd_jbehave) 
 
 #### Un produit de qualité correctement construit (*the product right*)  
-- [Tests et excellence technique au cœur du développement agile](slides/9_QualiteLogicielleExcellenceTechnique.pdf)
-- [Sensibilisation aux bonnes pratiques techniques du Software Craftsmanship : Lego® à la rescousse !](slides/13_AteliersLEGO_PratiquesTechniques.pdf)
+- [Tests et excellence technique au cœur du développement agile](slides/9_QualiteLogicielleExcellenceTechnique.pdf) 
+-  [Quid du Test dans un développement logiciel ?](https://github.com/iblasquez/enseignement-iut-m2104-conception/blob/master/slides/7_Tests.pdf) et [Sensibilisation aux bonnes pratiques (qualité logicielle)](https://github.com/iblasquez/enseignement-iut-m2104-conception/blob/master/slides/8_QualiteLogicielle_CleanCode.pdf) (cours M2104)
+- [Sensibilisation aux bonnes pratiques techniques du Software Craftsmanship : Lego® à la rescousse !](https://github.com/iblasquez/atelier-bonnes-pratiques-tdd-lego)
 -  [Coding Dojo : une aide à la pratique du TDD](http://iblasquez.github.io/presentation_TDD_CodingDojo) 
--  [Tutoriel s'appuyant sur l'exemple simplifié du premier chapitre du livre Refactoring de Martin Fowler](https://github.com/iblasquez/Refactoring_PremierExempleFowler) 
-
-
+- [Space Invaders en TDD](https://github.com/iblasquez/tdd_spaceInvaders) : mini-projet pour effectuer ses premiers pas en TDD et se sensibiliser aux bonnes pratiques de développement.
+-  [Tutoriel s'appuyant sur l'exemple simplifié du premier chapitre du livre Refactoring de Martin Fowler](https://github.com/iblasquez/Refactoring_PremierExempleFowler)
+- [Prise en main de git et d'EGit](https://github.com/iblasquez/tuto_git)
+- [Introspection via Sonar et SonarLint (tutoriel)](https://github.com/iblasquez/tutoriel_SonarQube)
 
 #### Vidéo : 
 - [La gestion du produit agile en deux mots](https://www.youtube.com/watch?v=3qMpB-UH9kA) (version française de [Agile Product Ownership in a Nutshell by Henrik Kniberg](https://www.youtube.com/watch?v=502ILHjX9EE))
@@ -44,6 +48,13 @@
 
 
 Pour toute question, discussion autour du module, veuillez utiliser [iutinfolimoges.slack.com](https://iutinfolimoges.slack.com/) avec votre adresse en unilim.
+
+## Sensibilisation à la qualité de code
+D'autres supports de cours, TD et TP autour de la qualité de code sont disponibles dans les deux dépôts suivants :
+
+- [iblasquez/enseignement-iut-m2104-conception](https://github.com/iblasquez/enseignement-iut-m2104-conception) pour les Bases de la conception orientée objet (module M2104) qui se focalise sur la ***conception classique & émergente, les bonnes pratiques et le TDD***.
+
+- [iblasquez/enseignement-iut-m3105-conception-avancee](https://github.com/iblasquez/enseignement-iut-m3105-conception-avancee) pour la Conception et Programmation objet avancées (module M3105) qui se focalise sur les ***bonnes pratiques, les doublures de tests, les principes SOLID et les Design Patterns.***
 
 
 ## Références sur le développement logiciel agile
