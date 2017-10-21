@@ -31,12 +31,13 @@
 #### Un produit de qualité correctement construit (*the product right*)  
 - [Tests et excellence technique au cœur du développement agile](slides/9_QualiteLogicielleExcellenceTechnique.pdf) 
 -  [Quid du Test dans un développement logiciel ?](https://github.com/iblasquez/enseignement-iut-m2104-conception/blob/master/slides/7_Tests.pdf) et [Sensibilisation aux bonnes pratiques (qualité logicielle)](https://github.com/iblasquez/enseignement-iut-m2104-conception/blob/master/slides/8_QualiteLogicielle_CleanCode.pdf) (cours M2104)
-- [Sensibilisation aux bonnes pratiques techniques du Software Craftsmanship : Lego® à la rescousse !](https://github.com/iblasquez/atelier-bonnes-pratiques-tdd-lego)
--  [Coding Dojo : une aide à la pratique du TDD](http://iblasquez.github.io/presentation_TDD_CodingDojo) 
+- [Atelier #tddLego : Sensibilisation aux bonnes pratiques techniques du Software Craftsmanship : Lego® à la rescousse !](https://github.com/iblasquez/atelier-bonnes-pratiques-tdd-lego)
 - [Space Invaders en TDD](https://github.com/iblasquez/tdd_spaceInvaders) : mini-projet pour effectuer ses premiers pas en TDD et se sensibiliser aux bonnes pratiques de développement.
--  [Tutoriel s'appuyant sur l'exemple simplifié du premier chapitre du livre Refactoring de Martin Fowler](https://github.com/iblasquez/Refactoring_PremierExempleFowler)
+- [Coding Dojo : une aide à la pratique du TDD](http://iblasquez.github.io/presentation_TDD_CodingDojo) 
+- [Doublures de test et Mockito](https://github.com/iblasquez/tuto_mockito)
 - [Prise en main de git et d'EGit](https://github.com/iblasquez/tuto_git)
-- [Introspection via Sonar et SonarLint (tutoriel)](https://github.com/iblasquez/tutoriel_SonarQube)
+- [Introspection via Sonar et SonarLint](https://github.com/iblasquez/tutoriel_SonarQube)
+- [Tutoriel s'appuyant sur l'exemple simplifié du premier chapitre du livre Refactoring de Martin Fowler](https://github.com/iblasquez/Refactoring_PremierExempleFowler)
 
 #### Vidéo : 
 - [La gestion du produit agile en deux mots](https://www.youtube.com/watch?v=3qMpB-UH9kA) (version française de [Agile Product Ownership in a Nutshell by Henrik Kniberg](https://www.youtube.com/watch?v=502ILHjX9EE))
@@ -86,4 +87,6 @@ Attribution - Pas d'Utilisation Commerciale - Partage dans les Mêmes Conditions
 <img src="https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png" width="100">
 
 En savoir plus sur [les licences Creative Commons](https://creativecommons.org/licenses/?lang=fr-FR) ...
+
+Toutefois, toute personne enseignant ou ayant enseignée au département Informatique de l'IUT du Limousin doit demander une autorisation préalable par écrit si elle souhaite utiliser les documents de ce dépôt. :smile:
 
