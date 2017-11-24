@@ -39,8 +39,13 @@
 - [Introspection via Sonar et SonarLint](https://github.com/iblasquez/tutoriel_SonarQube)
 - [Tutoriel s'appuyant sur l'exemple simplifié du premier chapitre du livre Refactoring de Martin Fowler](https://github.com/iblasquez/Refactoring_PremierExempleFowler)
 
-#### Vidéo : 
+#### Vidéos : 
 - [La gestion du produit agile en deux mots](https://www.youtube.com/watch?v=3qMpB-UH9kA) (version française de [Agile Product Ownership in a Nutshell by Henrik Kniberg](https://www.youtube.com/watch?v=502ILHjX9EE))
+- Petites vidéos récapitulatives :
+	- [Arrêtez d'écrire des cahiers des charges](https://www.youtube.com/watch?v=E3AaHEhPJzA)
+	- [Le rôle du product Owner](https://www.youtube.com/watch?v=FlvCE-Vez7g)
+	- [Le rôle de SCRUM Master](https://www.youtube.com/watch?v=JbB66AjDNI0)
+	- ... et bien d'autres sur la [chaine youtube d'Agilidée](https://www.youtube.com/channel/UC2Ipb3-y8VZvsFBMI8hpsdA)
 
 
 #### Autres :
