@@ -21,6 +21,7 @@
 - [1. INVESTir dans une histoire](slides/UserStory_Partie1_INVESTir.pdf) 
 - [2. Raconter une belle histoire](slides/UserStory_Partie2_Raconter.pdf)
 - [3. Mettre en scène une histoire](slides/UserStory_Partie3_MettreEnScene.pdf)
+- [Une aide à l’écriture de la Dod : Jeu du Dod Karts](https://medium.com/@twallet/dod-kards-un-jeu-pour-cocr%C3%A9er-la-d%C3%A9finition-de-fini-en-%C3%A9quipe-940f31680032)
 - [Example Mapping](slides/11_ExampleMapping.pdf)
 - [PO Dojo : Atelier USTA](slides/10_AtelierUSTA.pdf)
 - [Mettre en scène des histoires dans Scrum : Simulation d'un sprint](slides/12_SimulationSprint.pdf)
