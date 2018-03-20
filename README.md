@@ -76,13 +76,8 @@ Le lien [http://unil.im/33012015](http://unil.im/33012015) vous enverra directem
 
 
 - L'idée du Bingo vient de la conférence [Extremist Programming : l'art de s'amuser avec du code](https://www.youtube.com/watch?v=9UsjBV9zU1Y) présentée par [Cyrille Martraire](https://twitter.com/cyriux) et [Eric Lefevre-Ardant](https://twitter.com/elefevre) à [Devoxx France](http://www.devoxx.fr/) en 2014 : une conférence décalée avec du fond : à voir absolument !
-
-- <img src="http://www.unilim.fr/wp-content/uploads/sites/8/2015/10/COde-long-rvb.png" width="100"> 
-[Le site de CoDeMAKER](https://fondation.unilim.fr/codemaker/)  
-[L'Université de Limoges se dote d'un centre de co-conception](http://www.unilim.fr/vous-etes/entreprise/centre-de-co-conception/)   
-Des vidéos :  
-[Espace CoDesign - COdeMAKER](https://www.youtube.com/watch?v=9JrOW1Le1uk) (orientée Etudiants/Enseignants)  
-[COdeMAKER : intelligence collective](https://www.youtube.com/watch?v=BzOtUVwFRcU) (orientée Entreprises)
+- [Boîte à outils du Product Owner](http://lucyinthescrum.com/toolbox/) de Lucy in the Scrum
+- [Agile Topics: un jeu de cartes source d’inspiration!](http://lucyinthescrum.com/agile-topics-card-deck) ainsi que la version originale [Agile Topics card deck](https://blog.crisp.se/2015/10/08/jimmyjanlen/agile-topics-card-deck)
 
 Licence
 -------
