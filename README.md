@@ -1,5 +1,11 @@
-# Méthodologie de la production d'applications (partie sur le développement logiciel agile)
+# Enseignements autour du développement logiciel agile
 ---
+
+Ces enseignements ont donné lieu aux articles suivants:  
+
+- [Experience in learning test-driven development: space invaders project-driven](https://dl.acm.org/citation.cfm?id=3197132) in ITiCSE 2018 (Annual ACM Conference on **I**nnovation and **T**echnology **i**n **C**omputer **S**cience **E**ducation)  
+- [A guideline to teach agile requirements](https://dl.acm.org/citation.cfm?id=3205838) in ITiCSE 2018 
+- [Specification by Example for Educational Purposes](https://dl.acm.org/citation.cfm?id=3059039) in ITiCSE 2017
 
 **Bienvenue dans le monde du développement logiciel agile !**
 
