@@ -46,6 +46,9 @@ Ces enseignements ont donné lieu aux articles suivants:
 - [Introspection via Sonar et SonarLint](https://github.com/iblasquez/tutoriel_SonarQube)
 - [Tutoriel s'appuyant sur l'exemple simplifié du premier chapitre du livre Refactoring de Martin Fowler](https://github.com/iblasquez/Refactoring_PremierExempleFowler)
 
+#### Et pour finir ...
+- [Et pour finir (version 2018)](slides/2018_EtPourFinir.pdf) 
+
 #### Vidéos : 
 - [La gestion du produit agile en deux mots](https://www.youtube.com/watch?v=3qMpB-UH9kA) (version française de [Agile Product Ownership in a Nutshell by Henrik Kniberg](https://www.youtube.com/watch?v=502ILHjX9EE))
 - Petites vidéos récapitulatives :
