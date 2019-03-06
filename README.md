@@ -21,7 +21,8 @@ Ces enseignements ont donné lieu aux articles suivants:
 #### Le *bon* produit (*the right product*) : De la vision aux features : les outils du Product Owner  
 - [Une bonne vision pour bien commencer (Elevator Pitch, Product Box, Carte d'Empathie & Personnas)](slides/5_VisionProduit.pdf)  
 - [Impact Mapping](slides/6_ImpactMapping.pdf)
-- [Story Mapping](slides/8_StoryMapping.pdf)
+- [Story Mapping](slides/8_StoryMapping.pdf)  
+- [Event Storming](https://github.com/iblasquez/atelier-event-storming-scratch)  
   	  
 #### User Story : L'histoire utilisateur au cœur du développement logiciel agile
 - [1. INVESTir dans une histoire](slides/UserStory_Partie1_INVESTir.pdf) 
